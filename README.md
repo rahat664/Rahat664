@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there, it's me, Rahat 👋
 
-<!--
-**Rahat854/Rahat854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Quick Look
+The profile your are visiting belongs to Rahat Kabir Dhrubo. He is font end web developer who lives in Dhaka, Bangladesh 🇧🇩. Now he is learning Angular framework.He will work as a interne in AITS idea limited.
 
-Here are some ideas to get you started:
+#### Contact With Him
+- 📞 (+880) 1754 957665
+- 💌 rahatkabir20@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Professional Experiences
+- **DIU CPC** - Executive Member
+(August 2019 to Present)
+
+#### Educational Background
+- B.Sc in CSE - **Dhaka International University** | 2019-present
+
+#### Rahat and Opensource
+[![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rahat854&show_icons=true)](https://github.com/rahat854/github-readme-stats)
+
+#### Follow Him
+- [Facebook](https://fb.com/rahat6452) 
+- [Twitter](https://twitter.com/rahatoni354) 
+- [Instagram](https://instagram.com/rahat952)
