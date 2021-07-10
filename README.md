@@ -14,12 +14,15 @@ The profile your are visiting belongs to Rahat Kabir Dhrubo. He is font end web 
 - B.Sc in CSE - **Dhaka International University** | 2019-present
 
 **Languages and Tools:**  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/128/3522/3522283.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/128/919/919841.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/128/888/888859.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/128/778/778533.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/128/919/919828.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/128/919/919832.png"></code>
+<code><img height="20" src="https://image.flaticon.com/icons/png/128/919/919831.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <hr> </hr>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat854&show_icons=true&locale=en&layout=compact" alt="siamshaeed" /></p>
