@@ -1,17 +1,15 @@
-## Hi there, it's me, Rahat 👋
-
-#### Quick Look
-The profile your are visiting belongs to Rahat Kabir Dhrubo. He is font end web developer who lives in Dhaka, Bangladesh 🇧🇩. Now he is learning Angular framework.He will work as a interne in AITS idea limited.
+<div align="center">  
+<h3>Hi there! 👋🤓<br>My name is Rahat Kabir Dhrubo<br>I'm a Web Developer, Designer</h3>
 #### Contact With Him
 - 📞 (+880) 1754 957665
 - 💌 rahatkabir20@gmail.com
 
 #### Professional Experiences
-- **DIU CPC** - Executive Member
+ **DIU CPC** - Executive Member
 (August 2019 to Present)
 
 #### Educational Background
-- B.Sc in CSE - **Dhaka International University** | 2019-present
+ B.Sc in CSE - **Dhaka International University** | 2019-present
 
 **Languages and Tools:**  
 <code><img height="20" src="https://image.flaticon.com/icons/png/128/3522/3522283.png"></code>
@@ -32,6 +30,6 @@ The profile your are visiting belongs to Rahat Kabir Dhrubo. He is font end web 
 [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rahat854&show_icons=true)](https://github.com/rahat854/github-readme-stats)
 
 #### Follow Him
-- [Facebook](https://fb.com/rahat6452) 
-- [Twitter](https://twitter.com/rahatoni354) 
-- [Instagram](https://instagram.com/rahat952)
+ [Facebook](https://fb.com/rahat6452) 
+ [Twitter](https://twitter.com/rahatoni354) 
+ [Instagram](https://instagram.com/rahat952)
