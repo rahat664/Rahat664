@@ -1,12 +1,14 @@
 <div align="center">  
 <h3>Hi there! 👋🤓<br>My name is Rahat Kabir Dhrubo<br>I'm a Web Developer, Designer</h3>
+ 
 #### Contact With Him
-- 📞 (+880) 1754 957665
-- 💌 rahatkabir20@gmail.com
+ 📞 (+880) 1754 957665
+ 💌 rahatkabir20@gmail.com
 
 #### Professional Experiences
  **DIU CPC** - Executive Member
 (August 2019 to Present)
+  <br>
 **Aits Idea Ltd** - Junior Software Engineer
 (July 2021 to Present)
 #### Educational Background
