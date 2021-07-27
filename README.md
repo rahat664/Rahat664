@@ -7,7 +7,8 @@
 #### Professional Experiences
  **DIU CPC** - Executive Member
 (August 2019 to Present)
-
+**Aits Idea Ltd** - Junior Software Engineer
+(July 2021 to Present)
 #### Educational Background
  B.Sc in CSE - **Dhaka International University** | 2019-present
 
