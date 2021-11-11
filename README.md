@@ -46,7 +46,7 @@ Self-learned full-stack developer. Love to develop cross-platform desktop, web &
  <td><img align="center" src="https://github-stats-alpha.vercel.app/api/?username=Rahat854&tc=333&ic=333&bc=transparent" alt="Rahat854"/></td>
 </tr>
  <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat854&show_icons=true&locale=en&layout=compact" alt="Rahat854" /> </td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat854&show_icons=true&locale=en&layout=compact" alt="Rahat854" /> </td>
      <td><img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rahat854" alt="Rahat854" /> </td>
 </tr>
 </table>
