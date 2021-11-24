@@ -17,11 +17,11 @@ Self-learned full-stack developer. Love to develop cross-platform desktop, web &
 ### Connect with me
 <p align="left">
 
-<a href="https://twitter.com/rahatoni354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rahat854" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rahat664/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahat854" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16548750/rahat-kabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rahat854" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rahat952/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahat854" height="30" width="40" /></a>
-<a href="https://www.facebook.com/rahat6452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rahat854" height="30" width="40" /></a>
+<a href="https://twitter.com/rahatoni354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rahat664" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahat664/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahat664" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16548750/rahat-kabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rahat664" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rahat952/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahat664" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rahat6452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rahat664" height="30" width="40" /></a>
   
 </p>
 
@@ -43,7 +43,7 @@ Self-learned full-stack developer. Love to develop cross-platform desktop, web &
 <table>
 <tr>
  <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahat664&" alt="Rahat664" /></td>
- <td><img align="center" src="https://github-stats-alpha.vercel.app/api/?username=Rahat854&tc=333&ic=333&bc=transparent" alt="Rahat854"/></td>
+ <td><img align="center" src="https://github-stats-alpha.vercel.app/api/?username=Rahat664&tc=333&ic=333&bc=transparent" alt="Rahat664"/></td>
 </tr>
  <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat664&show_icons=true&locale=en&layout=compact" alt="Rahat664" /> </td>
