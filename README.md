@@ -25,7 +25,7 @@ Self-learned full-stack developer. Love to develop cross-platform desktop, web &
   
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <code><img height="20" src="https://image.flaticon.com/icons/png/128/3522/3522283.png"></code>
 <code><img height="20" src="https://image.flaticon.com/icons/png/128/919/919841.png"></code>
