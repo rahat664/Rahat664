@@ -1,6 +1,7 @@
 
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Rahat Kabir Dhrubo 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat664&theme=radical" alt="rahat664" /></a> </p>
 
 ### Bio <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahat664&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat664" /> </p>
 Self-learned full-stack developer. Love to develop cross-platform desktop, web & phone application. Feel free to work with new technologies. Currently working in [AITS Idea Ltd](https://github.com/AITSidea) with **Angular**.
@@ -42,12 +43,12 @@ Self-learned full-stack developer. Love to develop cross-platform desktop, web &
 ### Streak & Stats
 <table>
 <tr>
- <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahat664&" alt="Rahat664" /></td>
- <td><img align="center" src="https://github-stats-alpha.vercel.app/api/?username=Rahat664&tc=333&ic=333&bc=transparent" alt="Rahat664"/></td>
+ <td><img object-fit="cover" object-fit="center" width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahat664&" alt="Rahat664" /></td>
+ <td><img object-fit="cover" object-fit="center" width="100%" height="100%" src="https://github-stats-alpha.vercel.app/api/?username=Rahat664&tc=333&ic=333&bc=transparent" alt="Rahat664"/></td>
 </tr>
  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat664&show_icons=true&locale=en&layout=compact" alt="Rahat664" /> </td>
-     <td><img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rahat664" alt="Rahat664" /> </td>
+    <td><img object-fit="cover" object-fit="center" width="100%" height="100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat664&show_icons=true&locale=en&layout=compact" alt="Rahat664" /> </td>
+     <td><img object-fit="cover" object-fit="center" width="100%" height="100%"  src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rahat664" alt="Rahat664" /> </td>
 </tr>
 </table>
  
