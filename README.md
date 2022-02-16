@@ -6,7 +6,7 @@
 ### Bio <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahat664&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat664" /> </p>
 Self-learned full-stack developer. Love to develop cross-platform desktop, web & phone application. Feel free to work with new technologies. Currently working in [AITS Idea Ltd](https://github.com/AITSidea) with **Angular**.
 
- <img align="right"  src="https://scontent.fdac142-1.fna.fbcdn.net/v/t39.30808-6/261311014_930974201150590_4195934394118754144_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFUxoCafb2DdCpNDfx5SIt5I82CtuvkiBIjzYK26-SIEgNPXz5uvNP_LOgMebbHZp5utR_ADN0TNB7m8FHo1er9&_nc_ohc=s7Wu1Zj4inYAX9cybNh&_nc_ht=scontent.fdac142-1.fna&oh=00_AT9E1xyWUlWLCW21WL76dFs-wKy0Ui5fOA-PJ2qfrooKKw&oe=61FBB83A" height = "300" />
+ <img align="right"  src="https://avatars.githubusercontent.com/u/55030561?v=4" height = "300" />
 
 - 🌱 I’m currently learning **Angular**
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Rahat664/works)
