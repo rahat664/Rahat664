@@ -13,7 +13,7 @@ Self-learned full-stack developer. Love to develop cross-platform desktop, web &
 - 🔍 Looking for contributor for [drafty](https://github.com/Rahat664/drafty)
 - 💬 Ask me about **Angular**
 - 📫 How to reach me via email [rahatkabir20@gmail.com](mailto:rahatkabir20@gmail.com)
-- 📄 Know about my experiences [Download Resume](https://Rahat664.vercel.app/resume)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1WDiQnv8A-pSTK5BKzd6FxTZywRI-9pGY/view?usp=sharing)
 
 ### Connect with me
 <p align="left">
