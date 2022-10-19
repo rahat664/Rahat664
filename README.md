@@ -1,8 +1,8 @@
 
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Rahat Kabir Dhrubo 
+[![@rahat664's Holopin board](https://holopin.me/rahat664)](https://holopin.io/@rahat664)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat664&theme=radical" alt="rahat664" /></a> </p>
-[![@rahat664's Holopin board](https://holopin.me/rahat664)](https://holopin.io/@rahat664) <br>
 ### Bio <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahat664&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat664" /> </p>
 Self-learned full-stack developer. Love to develop cross-platform desktop, web & phone application. Feel free to work with new technologies. Currently working in [AITS Idea Ltd](https://github.com/AITSidea) with **Angular**.
 
