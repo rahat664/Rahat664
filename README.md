@@ -40,16 +40,6 @@ A motivated software engineer with 2 years of experience designing and implement
 [![@rahat664's Holopin board](https://holopin.me/rahat664)](https://holopin.io/@rahat664)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat664&theme=radical" alt="rahat664" /></a> </p>
 ### Bio <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahat664&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat664" /> </p>
-Self-learned full-stack developer. Love to develop cross-platform desktop, web & phone application. Feel free to work with new technologies. Currently working in [AITS Idea Ltd](https://github.com/AITSidea) with **Angular**.
-
- <img align="right"  src="https://avatars.githubusercontent.com/u/55030561?v=4" height = "300" />
-
-- 🌱 I’m currently learning **Angular**
-- 👨‍💻 All of my projects are available at [Here](https://github.com/Rahat664/works)
-- 🔍 Looking for contributor for [drafty](https://github.com/Rahat664/drafty)
-- 💬 Ask me about **Angular**
-- 📫 How to reach me via email [rahatkabir20@gmail.com](mailto:rahatkabir20@gmail.com)
-- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1WDiQnv8A-pSTK5BKzd6FxTZywRI-9pGY/view?usp=sharing)
 
 ### Connect with me
 <p align="left">
