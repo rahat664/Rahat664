@@ -6,11 +6,17 @@ A motivated software engineer with 2 years of experience designing and implement
 ---
 
 ## Experiences (2021 - Present)
-
-- **_Associate Software Engineer_**, AITS Idea Ltd., Dhaka (January 2021 - Present)
+- **_Associate Software Engineer, Athod Tech Ltd., Jaipur, India (Mar 2023 - Present)
+  - Worked on beneficiaries & interventions solution named MAAP.
+  - Worked with Velzon Template customization - An angular 15-based admin Dashboard.
+  - Create tab-wise reactive forms for collecting household data.
+  - Worked with login and logout logs maintenance.
+  - Worked with one session user authorization - If the user is logged in to a session when they tried to log in from another make sure they have to log out from another session.
+  - Break out their big component and split them into reusable small components.
+- **_Associate Software Engineer_**, AITS Idea Ltd., Dhaka (January 2023 - February 2023)
 
   - Developed a custom layout for SILENCE V2 which contains 4 types of menu style (Top Modern Style - Icon Only, Top Classic Style - Icon and Text, Left Style - Global and current navigation panel, Mixed- First and Second layers will be in the left side and 3rd layer will be in Top).
-  - Worked with a security module for SILENCE V2 which contains module lists, module permission, organization-wise module permission, role wise module permission.
+  - Worked with a security module for SILENCE V2 containing module lists, module permission, organization-wise module permission, and role-wise module permission.
   - Designed and developed a restaurant pos in SILENCE V2 named Rms_POS (Restaurant Management System Point of Sales)
 .
 
