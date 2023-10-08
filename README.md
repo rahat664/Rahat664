@@ -6,7 +6,7 @@ A motivated software engineer with 2 years of experience designing and implement
 ---
 
 ## Experiences (2021 - Present)
-- **_Associate Software Engineer, Athod Tech Ltd., Jaipur, India (Mar 2023 - Present)
+- Associate Software Engineer, Athod Tech Ltd., Jaipur, India (Mar 2023 - Present)
   - Worked on beneficiaries & interventions solution named MAAP.
   - Worked with Velzon Template customization - An angular 15-based admin Dashboard.
   - Create tab-wise reactive forms for collecting household data.
