@@ -24,7 +24,7 @@ A motivated software engineer with 2 years of experience designing and implement
 
   - R&D on AITS Idea Ltd. products, redesign the UI of the official website of AITS Idea Ltd, and developed it with Angular, SCSS, & Tailwind CSS.
   - Design a public website for Islam Metal Ltd (A sanitary products manufacturer company) and developed it with angular, SCSS, Tailwind CSS, and Angular Material.
-  - DDeveloped a Point of Sale application with Angular, SCSS, & Tailwind CSS which led to R&D on purchase, inventory, sales, and accounting modules with the team.
+  - developed a Point of Sale application with Angular, SCSS, & Tailwind CSS which led to R&D on purchase, inventory, sales, and accounting modules with the team.
   - Implemented a new feature (Receipt of Sale list) in SILENCE (An enterprise resource planning solution - ERP) with Angular and SCSS.
   - Wrote technical specifications about the products of Aits Idea Ltd. for brochure and product branding.
   - Designed the UI of the ELMA (Education Management System) public site and developed it with Angular, SCSS, Angular Material, and Tailwind CSS.
@@ -33,17 +33,18 @@ A motivated software engineer with 2 years of experience designing and implement
   - Redesigned the UI of the official website of AITS Idea Ltd. and developed it with Angular, SCSS, & Tailwind CSS.
   - Implemented Dark mode and light mode in the Point of Sale application.
   - Redesigned and implemented new features in the Point of Sale application.
-  - Researched Enterprise solutions and start developing SILENCE V2(A new version of Enterprise resource planning Solution - ERP) with Angular, Tailwind CSS, & SCSS.
+  - Researched Enterprise solutions and started developing SILENCE V2(A new version of Enterprise resource planning Solution - ERP) with Angular, Tailwind CSS, & SCSS.
   - Developed a fully customized table with pagination, general, and dynamic Search in SILENCE V2. 
   - Designed and developed the BONIK|AITS website (A Business Management Product of SILENCE ERP solutions)
   - Designed and developed the DOCTORALOY|AITS website (A Patient Management Product of SILENCE ERP solutions)
   - Designed and developed the ELMA|AITS  website (A Education Management Product of SILENCE ERP solutions)
-  - Designed and developed the JOMIDAR|AITS website (A Apartment Management Product of SILENCE ERP solutions)
+  - Designed and developed the JOMIDAR|AITS website (An apartment Management Product of SILENCE ERP solutions)
   - Designed and developed the MEDICARE|AITS website (A Pharmacy Management Product of SILENCE ERP solutions)
 
 ---
 
-[![@rahat664's Holopin board](https://holopin.me/rahat664)](https://holopin.io/@rahat664)
+![@rahat664's Holopin board](https://holopin.me/rahat664)
+[![An image of @rahat6646's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahat6646)](https://holopin.io/@rahat6646)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahat664&theme=radical" alt="rahat664" /></a> </p>
 ### Bio <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahat664&label=Profile%20views&color=0e75b6&style=flat" alt="Rahat664" /> </p>
 
