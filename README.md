@@ -17,12 +17,12 @@ A motivated software engineer with 2 years of experience designing and implement
 
   - Developed a custom layout for SILENCE V2 which contains 4 types of menu style (Top Modern Style - Icon Only, Top Classic Style - Icon and Text, Left Style - Global and current navigation panel, Mixed- First and Second layers will be in the left side and 3rd layer will be in Top).
   - Worked with a security module for SILENCE V2 containing module lists, module permission, organization-wise module permission, and role-wise module permission.
-  - Designed and developed a restaurant pos in SILENCE V2 named Rms_POS (Restaurant Management System Point of Sales)
+  - Designed and developed a restaurant POS in SILENCE V2 named Rms_POS (Restaurant Management System Point of Sales)
 .
 
-- **_Junior Software Engineer_**, AITS Idea Ltd., Dhaka (July 2021 - Decemeber 2022)
+- **_Junior Software Engineer_**, AITS Idea Ltd., Dhaka (July 2021 - December 2022)
 
-  - R&D on AITS Idea Ltd. products, redesign the UI of the official website of AITS Idea Ltd, and developed it with Angular, SCSS, & Tailwind CSS.
+  - R&D on AITS Idea Ltd. products, redesign the UI of the official website of AITS Idea Ltd and developed it with Angular, SCSS, & Tailwind CSS.
   - Design a public website for Islam Metal Ltd (A sanitary products manufacturer company) and developed it with angular, SCSS, Tailwind CSS, and Angular Material.
   - developed a Point of Sale application with Angular, SCSS, & Tailwind CSS which led to R&D on purchase, inventory, sales, and accounting modules with the team.
   - Implemented a new feature (Receipt of Sale list) in SILENCE (An enterprise resource planning solution - ERP) with Angular and SCSS.
@@ -61,24 +61,34 @@ A motivated software engineer with 2 years of experience designing and implement
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <code><img height="20" src="https://image.flaticon.com/icons/png/128/3522/3522283.png"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/png/128/919/919841.png"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/png/128/888/888859.png"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/png/128/778/778533.png"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/png/128/919/919828.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/png/128/919/919832.png"></code>
-<code><img height="20" src="https://image.flaticon.com/icons/png/128/919/919831.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
  <code><img height="20" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
+ <code><img height="20" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"></code>
+ <code><img height="20" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png"></code>
+  <code><img height="20" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"></code>
+ <code><img height="20" src="https://seeklogo.com/images/R/rxjs-logo-1C13E67498-seeklogo.com.png"></code>
+   <code><img height="20" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code>
+   <code><img height="20" src="https://seeklogo.com/images/M/material-design-logo-8BAFEFE50B-seeklogo.com.png"></code>
+    <code><img height="20" src="https://seeklogo.com/images/K/karma-logo-B204C2D2E3-seeklogo.com.png"></code>
+    <code><img height="20" src="https://seeklogo.com/images/J/jasmine-logo-1A0FA4D537-seeklogo.com.png"></code>
+    <code><img height="20" src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png"></code>
+    <code><img height="20" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
+    <code><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
+    <code><img height="20" src="https://seeklogo.com/images/A/artificial-intelligence-logo-04502F7087-seeklogo.com.png"></code>
+    <code><img height="20" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"></code>
+    <code><img height="20" src="https://seeklogo.com/images/A/anaconda-logo-ECE998096F-seeklogo.com.png"></code>
+  <code><img height="20" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
+  <code><img height="20" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"></code>
  </p>
 
 
 ### Streak & Stats
 <table>
 <tr>
- <td><img object-fit="cover" object-fit="center" width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahat664&" alt="Rahat664" /></td>
+ <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rahat664" alt="GitHub Streak" /></a></td>
  <td><img object-fit="cover" object-fit="center" width="100%" height="100%" src="https://github-stats-alpha.vercel.app/api/?username=Rahat664&tc=333&ic=333&bc=transparent" alt="Rahat664"/></td>
 </tr>
  <tr>
@@ -86,7 +96,7 @@ A motivated software engineer with 2 years of experience designing and implement
      <td><img object-fit="cover" object-fit="center" width="100%" height="100%"  src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rahat664" alt="Rahat664" /> </td>
 </tr>
  ## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=rahat664&theme=github" alt="rahat664" /></p> 
+<p><img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=rahat664&theme=dracula" alt="rahat664" /></p> 
 </table>
  
 
