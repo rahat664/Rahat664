@@ -1,7 +1,7 @@
 
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Rahat Kabir Dhrubo 
-A motivated software engineer with 2 years of experience designing and implementing software solutions for a variety of industries. Proficient in multiple programming languages, experienced in Agile methodologies, and dedicated to delivering high-quality, scalable, and maintainable code.
+A motivated software engineer with 2 years of experience designing and implementing software solutions for various industries. Proficient in multiple programming languages, experienced in Agile methodologies, and dedicated to delivering high-quality, scalable, and maintainable code.
 
 ---
 
@@ -9,10 +9,10 @@ A motivated software engineer with 2 years of experience designing and implement
 - Software Engineer, Shamolima Ltd., Gulshan 1 -Dhaka 1212 (May 2024 - Present)
   - Led the development of supply chain management systems, specializing in trip management, real-time transportation tracking, and map-based route optimization to enhance logistics operations.
   - Designed and implemented advanced features for real-time monitoring of shipments and vehicles, ensuring transparency and efficiency across the transportation network.
-  - Optimized routing algorithms to reduce delivery times and operational costs, contributing to improved supply chain performance.
+  - Optimized routing algorithms to reduce delivery times and operational costs, improving supply chain performance.
   - Collaborated with cross-functional teams, including product managers, designers, and QA engineers, to deliver high-quality solutions that align with business goals.
   - Conducted thorough testing and troubleshooting to maintain system reliability and address real-world challenges in supply chain operations.
-- Associate Software Engineer, Athod Tech Ltd., Jaipur, India (Mar 2023 - Present)
+- Associate Software Engineer, Athod Tech Ltd., Jaipur, India (Mar 2023 - Mar 2024)
   - Worked on beneficiaries & interventions solution named MAAP.
   - Worked with Velzon Template customization - An angular 15-based admin Dashboard.
   - Create tab-wise reactive forms for collecting household data.
@@ -28,7 +28,7 @@ A motivated software engineer with 2 years of experience designing and implement
 
 - **_Junior Software Engineer_**, AITS Idea Ltd., Dhaka (July 2021 - December 2022)
 
-  - R&D on AITS Idea Ltd. products, redesign the UI of the official website of AITS Idea Ltd and developed it with Angular, SCSS, & Tailwind CSS.
+  - R&D on AITS Idea Ltd. products, redesign the UI of the official website of AITS Idea Ltd, and developed it with Angular, SCSS, & Tailwind CSS.
   - Design a public website for Islam Metal Ltd (A sanitary products manufacturer company) and developed it with angular, SCSS, Tailwind CSS, and Angular Material.
   - developed a Point of Sale application with Angular, SCSS, & Tailwind CSS which led to R&D on purchase, inventory, sales, and accounting modules with the team.
   - Implemented a new feature (Receipt of Sale list) in SILENCE (An enterprise resource planning solution - ERP) with Angular and SCSS.
