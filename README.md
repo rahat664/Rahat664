@@ -135,28 +135,26 @@ Results-driven Software Engineer with 3+ years of experience in designing and de
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
- <code><img height="20" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
- <code><img height="20" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png"></code>
- <code><img height="20" src="https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png"></code>
-  <code><img height="20" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"></code>
- <code><img height="20" src="https://seeklogo.com/images/R/rxjs-logo-1C13E67498-seeklogo.com.png"></code>
-   <code><img height="20" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></code>
-   <code><img height="20" src="https://seeklogo.com/images/M/material-design-logo-8BAFEFE50B-seeklogo.com.png"></code>
-    <code><img height="20" src="https://seeklogo.com/images/K/karma-logo-B204C2D2E3-seeklogo.com.png"></code>
-    <code><img height="20" src="https://seeklogo.com/images/J/jasmine-logo-1A0FA4D537-seeklogo.com.png"></code>
-    <code><img height="20" src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png"></code>
-    <code><img height="20" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
-    <code><img height="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
-    <code><img height="20" src="https://seeklogo.com/images/A/artificial-intelligence-logo-04502F7087-seeklogo.com.png"></code>
-    <code><img height="20" src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"></code>
-    <code><img height="20" src="https://seeklogo.com/images/A/anaconda-logo-ECE998096F-seeklogo.com.png"></code>
-  <code><img height="20" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"></code>
-  <code><img height="20" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png"></code>
- </p>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"></code>
+<code><img height="20" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/karma/karma-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Artificial_Intelligence_logo.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+</p>
 
 
 ### Streak & Stats
