@@ -3,7 +3,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Rahat Kabir Dhrubo 
 
 **Software Engineer**  
-📍 Aftabnagar, Dhaka 1212  
+📍 Uttar Badda, Dhaka 1212  
 📧 [rahatkabir20@gmail.com](mailto:rahatkabir20@gmail.com)  
 📞 +880-1754-957665  
 🔗 [GitHub](https://github.com/rahat664) | 🔗 [LinkedIn](https://www.linkedin.com/in/rahat664/)
