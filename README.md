@@ -1,51 +1,120 @@
 
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Rahat Kabir Dhrubo 
-A motivated software engineer with 2 years of experience designing and implementing software solutions for various industries. Proficient in multiple programming languages, experienced in Agile methodologies, and dedicated to delivering high-quality, scalable, and maintainable code.
+# Rahat Kabir Dhrubo
+
+**Software Engineer**  
+📍 Aftabnagar, Dhaka 1212  
+📧 [rahatkabir20@gmail.com](mailto:rahatkabir20@gmail.com)  
+📞 +880-1754-957665  
+🔗 [GitHub](https://github.com/rahat664) | 🔗 [LinkedIn](https://www.linkedin.com/in/rahat664/)
 
 ---
 
-## Experiences (2021 - Present)
-- Software Engineer, Shamolima Ltd., Gulshan 1 -Dhaka 1212 (May 2024 - Present)
-  - Led the development of supply chain management systems, specializing in trip management, real-time transportation tracking, and map-based route optimization to enhance logistics operations.
-  - Designed and implemented advanced features for real-time monitoring of shipments and vehicles, ensuring transparency and efficiency across the transportation network.
-  - Optimized routing algorithms to reduce delivery times and operational costs, improving supply chain performance.
-  - Collaborated with cross-functional teams, including product managers, designers, and QA engineers, to deliver high-quality solutions that align with business goals.
-  - Conducted thorough testing and troubleshooting to maintain system reliability and address real-world challenges in supply chain operations.
-- Associate Software Engineer, Athod Tech Ltd., Jaipur, India (Mar 2023 - Mar 2024)
-  - Worked on beneficiaries & interventions solution named MAAP.
-  - Worked with Velzon Template customization - An angular 15-based admin Dashboard.
-  - Create tab-wise reactive forms for collecting household data.
-  - Worked with login and logout logs maintenance.
-  - Worked with one session user authorization - If the user is logged in to a session when they tried to log in from another make sure they have to log out from another session.
-  - Break out their big component and split them into reusable small components.
-- **_Associate Software Engineer_**, AITS Idea Ltd., Dhaka (January 2023 - February 2023)
+## 📝 Summary  
+Results-driven Software Engineer with 3+ years of experience in designing and developing scalable, high-performance web applications. Proficient in **Angular, TypeScript, and Node.js**, with expertise in **RESTful APIs, microservices architecture, database optimization, and cloud-based deployment**. Passionate about writing **efficient, maintainable code**, implementing **secure authentication protocols**, and solving complex software challenges.
 
-  - Developed a custom layout for SILENCE V2 which contains 4 types of menu style (Top Modern Style - Icon Only, Top Classic Style - Icon and Text, Left Style - Global and current navigation panel, Mixed- First and Second layers will be in the left side and 3rd layer will be in Top).
-  - Worked with a security module for SILENCE V2 containing module lists, module permission, organization-wise module permission, and role-wise module permission.
-  - Designed and developed a restaurant POS in SILENCE V2 named Rms_POS (Restaurant Management System Point of Sales)
-.
+---
 
-- **_Junior Software Engineer_**, AITS Idea Ltd., Dhaka (July 2021 - December 2022)
+## 💻 Technical Skills  
+### Programming Languages  
+- JavaScript, TypeScript, C++  
 
-  - R&D on AITS Idea Ltd. products, redesign the UI of the official website of AITS Idea Ltd, and developed it with Angular, SCSS, & Tailwind CSS.
-  - Design a public website for Islam Metal Ltd (A sanitary products manufacturer company) and developed it with angular, SCSS, Tailwind CSS, and Angular Material.
-  - developed a Point of Sale application with Angular, SCSS, & Tailwind CSS which led to R&D on purchase, inventory, sales, and accounting modules with the team.
-  - Implemented a new feature (Receipt of Sale list) in SILENCE (An enterprise resource planning solution - ERP) with Angular and SCSS.
-  - Wrote technical specifications about the products of Aits Idea Ltd. for brochure and product branding.
-  - Designed the UI of the ELMA (Education Management System) public site and developed it with Angular, SCSS, Angular Material, and Tailwind CSS.
-  - Researched Ayurvedic products marketing websites & designed the UI of Jain Laboratories (An Ayurvedic products Manufacturer company) with Figma.
-  - Designed and added a new feature(apartment management Service desk) in SILENCE (An enterprise resource planning solution - ERP) with Angular, TailwindCss, and SCSS.
-  - Redesigned the UI of the official website of AITS Idea Ltd. and developed it with Angular, SCSS, & Tailwind CSS.
-  - Implemented Dark mode and light mode in the Point of Sale application.
-  - Redesigned and implemented new features in the Point of Sale application.
-  - Researched Enterprise solutions and started developing SILENCE V2(A new version of Enterprise resource planning Solution - ERP) with Angular, Tailwind CSS, & SCSS.
-  - Developed a fully customized table with pagination, general, and dynamic Search in SILENCE V2. 
-  - Designed and developed the BONIK|AITS website (A Business Management Product of SILENCE ERP solutions)
-  - Designed and developed the DOCTORALOY|AITS website (A Patient Management Product of SILENCE ERP solutions)
-  - Designed and developed the ELMA|AITS  website (A Education Management Product of SILENCE ERP solutions)
-  - Designed and developed the JOMIDAR|AITS website (An apartment Management Product of SILENCE ERP solutions)
-  - Designed and developed the MEDICARE|AITS website (A Pharmacy Management Product of SILENCE ERP solutions)
+### Frontend Technologies  
+- Angular, RxJS, NgRx, SCSS, Tailwind CSS, Bootstrap, Angular Material  
+
+### Backend & Databases  
+- Node.js, Express.js, NestJS, Prisma, MongoDB, MySQL, PostgreSQL  
+
+### Cloud & DevOps  
+- AWS, Firebase, CI/CD, Docker, Kubernetes  
+
+### Development Tools  
+- VS Code, WebStorm, Git, GitHub, GitLab, Postman, Figma, Jira  
+
+### Software Development Methodologies  
+- Agile, Scrum, TDD (Test-Driven Development), REST APIs, Microservices Architecture  
+
+---
+
+## 💼 Experience  
+### **Software Engineer – Shamolima Ltd.** *(May 2024 – Present)*  
+📍 Gulshan 1, Dhaka, Bangladesh  
+- Leading the development of **supply chain management systems**, specializing in **trip management, real-time transportation tracking, and map-based route optimization**.  
+- Designed and implemented advanced features for **real-time shipment and vehicle monitoring**, improving transparency and operational efficiency.  
+- Optimized **routing algorithms**, reducing **delivery times and operational costs by 15%**.  
+- Collaborating with cross-functional teams to ensure high-quality software delivery.  
+- Conducting comprehensive **testing & troubleshooting** to maintain system reliability.
+
+🔗 [Shamolima Ltd.](https://www.shamolima.com/)
+
+### **Associate Software Engineer – Athod Tech Ltd.** *(March 2023 – March 2024)*  
+📍 Jaipur, India  
+- Developed **MAAP platform**, focusing on **scalability, performance optimization, and secure authentication** using **Angular, TypeScript, and Firebase**.  
+- Customized **Velzon (Angular 15-based admin dashboard)** for improved **UI/UX** and data visualization.  
+- Implemented **JWT-based authentication and single-session authorization**, improving user session security by **50%**.  
+
+🔗 [Athod Tech](https://athodtech.com/)
+
+### **Associate Software Engineer – AITS Idea Ltd.** *(July 2021 – Feb 2023)*  
+📍 Uttara, Dhaka, Bangladesh  
+- Led **UI redesign of AITS Idea Ltd. website**, improving user experience with **Angular, SCSS, and Tailwind CSS**.  
+- Developed a **Restaurant Management System (RMS_POS)** for real-time **order management, inventory tracking, and sales analytics**.  
+- Built **multiple ERP solutions**, including:
+  - **BONIK** (Business Management)  
+  - **DOCTORALOY** (Healthcare Management)  
+  - **ELMA** (Education Management System)  
+  - **JOMIDAR** (Real Estate ERP)  
+  - **MEDICARE** (Medical Services Platform)  
+
+🔗 [AITS Idea Ltd.](https://www.aitsidea.com/industries/real-estate)
+
+---
+
+## 🎓 Education  
+**B.Sc. in Computer Science & Engineering (CGPA: 3.69)**  
+📍 Dhaka International University *(2019 – 2022)*  
+📌 **Relevant Coursework:** Data Structures & Algorithms, Software Engineering, Database Management Systems, Cloud Computing, Web Development  
+📌 **Competitions & Hackathons:**  
+✔ Dhaka Regional ICPC *(2019, 2020, 2021)*  
+✔ BUET Inter-University Programming Contest (IUPC) – 2022  
+✔ SUST SWE-TECNOVENT Hackathon – 2023  
+
+---
+
+## 🏆 Extra-Curricular Activities  
+### **Assistant General Secretary, DIU CPC (July 2021 – Present)**  
+- Organized **NASA Space Apps Challenge 2021 & 2022** Workshops  
+- Coordinated **Grace Hopper Girl's Programming Camp at DIU**  
+- Hosted **“All About Competitive Programming” Workshop**  
+- Led **DIU Intra University IT Carnival 2022**  
+
+### **Executive Committee Member, DIU CPC (2019 – 2021)**  
+- Organized **Mujib Borsho IT Carnival**  
+- Established **CodeChef DIU Chapter** and **Algohub** for teaching algorithms  
+- Developed **official website of DIU CPC**  
+
+---
+
+## 📄 Research and Publications  
+**Polling Booth-Based E-Voting Scheme Using Blind Signatures (IEEE, 2024)**  
+🔗 [DOI: 10.1109/10625521](https://ieeexplore.ieee.org/document/10625521)  
+- Developed a **secure, blockchain-based e-voting system** using **RSA encryption and blind signature cryptographic techniques**.  
+- Focused on **data integrity, auditability, and privacy preservation** in electronic voting systems.
+
+---
+
+## 🔢 Problem-Solving Profiles  
+✔ **HackerRank:** [Profile](https://www.hackerrank.com/rahatkabir20?hr_r=1)  
+✔ **Uva Online Judge:** [Profile](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)  
+✔ **CodeChef:** [Profile](https://www.codechef.com/users/rahat664)  
+✔ **Codeforces:** [Profile](https://codeforces.com/profile/rahatkabir20)  
+
+---
+
+## 🌍 Languages  
+✅ Bengali – Native  
+✅ English – Professional Working Proficiency  
 
 ---
 
