@@ -161,7 +161,7 @@ Results-driven Software Engineer with 3+ years of experience in designing and de
 ### Streak & Stats
 <table>
 <tr>
- <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=youtube-dark" alt="GitHub Streak"></a></td>
+ <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ten-gamma.vercel.app?user=rahat664&theme=onedark-duo" alt="GitHub Streak" /></a></td>
  <td><img object-fit="cover" object-fit="center" width="100%" height="100%" src="https://github-stats-alpha.vercel.app/api/?username=Rahat664&tc=333&ic=333&bc=transparent" alt="Rahat664"/></td>
 </tr>
  <tr>
