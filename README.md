@@ -6,7 +6,7 @@
 📍 Uttar Badda, Dhaka 1212  
 📧 [rahatkabir20@gmail.com](mailto:rahatkabir20@gmail.com)  
 📞 +880-1754-957665  
-🔗 [GitHub](https://github.com/rahat664) | 🔗 [LinkedIn](https://www.linkedin.com/in/rahat664/)
+🔗 [GitHub](https://github.com/rahat664) | 🔗 [LinkedIn](https://www.linkedin.com/in/rahat664/) | 🔗 [Website](https://madebyrahat.com)
 
 ---
 
