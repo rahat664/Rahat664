@@ -21,7 +21,7 @@
 
 > *Transforming ideas into scalable, high-performance solutions*
 
-Results-driven **Software Engineer** with **3+ years** of experience crafting robust web applications. I specialize in building **scalable microservices**, optimizing **supply chain systems**, and implementing **secure authentication protocols**. Passionate about clean code, performance optimization, and solving complex technical challenges.
+Results-driven **Software Engineer** with **4+ years** of experience crafting robust web applications. I specialize in building **scalable microservices**, optimizing **supply chain systems**, and implementing **secure authentication protocols**. Passionate about clean code, performance optimization, and solving complex technical challenges.
 
 ```typescript
 const rahat = {
