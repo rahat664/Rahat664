@@ -173,11 +173,11 @@ Developed a secure, blockchain-based e-voting system leveraging **RSA encryption
   <img width="48%" src="https://github-readme-streak-stats-ten-gamma.vercel.app?user=rahat664&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 <a href="https://github.com/rahat664">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahat664&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahat664&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/rahat664">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat664&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rahat664&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </a>
 <a href="https://github.com/rahat664">
   <img width="48%" src="https://github-stats-alpha.vercel.app/api/?username=Rahat664&tc=44cc11&ic=fff&bc=0000" alt="Activity Stats" />
