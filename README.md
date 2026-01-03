@@ -149,9 +149,15 @@ Competitive Programming: ICPC Dhaka Regional (2019, 2020, 2021), BUET IUPC 2022,
 
 <div align="center">
 
-<img width="48%" src="https://streak-stats.demolab.com?user=rahat664&theme=transparent&hide_border=true" alt="GitHub Streak" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahat664&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahat664&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+<a href="https://streak-stats.demolab.com?user=rahat664">
+  <img width="48%" src="https://streak-stats.demolab.com?user=rahat664&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahat664&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahat664&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</a>
 
 </div>
 
