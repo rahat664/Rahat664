@@ -53,13 +53,6 @@ const rahat: Record<string, unknown> = {
 - Delivered real-time shipment monitoring for operational transparency.
 - Partner with cross-functional teams to ship scalable features.
 
-### Builder / Founder — NeuraERP (AI-native ERP platform)
-- Creating a multi-tenant ERP on an Nx monorepo with production-ready workflows.
-- Backend: NestJS microservices, API gateway, modular domain services.
-- Frontend: Angular with Tailwind for cohesive UX.
-- Infra: PostgreSQL/pgvector, Redis, OpenSearch, MinIO, Temporal, Docker.
-- Focused on scalability, maintainability, and reliable release pipelines.
-
 ### Associate Software Engineer — [Athod Tech Ltd.](https://athodtech.com/) *(Mar 2023 – Mar 2024, Jaipur, India)*
 - Advanced the MAAP platform with scalability, performance, and secure auth improvements.
 - Customized Velzon (Angular) dashboard for tailored UI/UX.
